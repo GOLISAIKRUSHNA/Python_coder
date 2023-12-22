@@ -1,0 +1,37 @@
+
+
+Before transaction balance amount: 1000 
+withdrew amount :500.0 and New Balance Amount :500.0 
+***************Date:2023-12-06************2029-10-25************** 
+Before transaction balance amount: 1000 
+withdrew amount :500.0 and New Balance Amount :500.0 
+***************Date:2023-12-06************2029-10-25 21:47:48************** 
+Before transaction balance amount: 1000 
+withdrew amount :500.0 and New Balance Amount :500.0 
+***************Date:2023-12-06*********************** 
+Before transaction balance amount: 1000 
+withdrew amount :200.0 and New Balance Amount :800.0 
+***************Date*********************** 
+Before transaction balance amount: 1000 
+withdrew amount :500.0 and New Balance Amount :500.0 
+***************Date*********************** 
+Before transaction balance amount: 1000 
+***************Date*********************** 
+Before transaction balance amount: 1000 
+withdrew amount :500.0 and New Balance Amount :500.0 
+***************" 6"-",today.month,"-",today.year*********************** 
+Before transaction balance amount: 1000 
+***************" 6122023*********************** 
+Before transaction balance amount: 1000 
+*****************6/12/2023*********************** 
+Before transaction balance amount: 1000 
+*****************6/12/2023*********************** 
+Before transaction balance amount: 1000 
+*****************6/12/2023*********************** 
+Before transaction balance amount: 1000 
+withdrew amount :1000.0 and New Balance Amount :0.0 
+*****************6/12/2023*********************** 
+Before transaction balance amount: 1000 
+withdrew amount :2000.0 and New Balance Amount :-1000.0 
+*****************6/12/2023*********************** 
+Before transaction balance amount: 1000 
